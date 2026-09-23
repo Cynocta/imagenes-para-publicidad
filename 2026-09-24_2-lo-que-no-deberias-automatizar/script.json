@@ -1,0 +1,46 @@
+{
+ "scenes": [
+  {
+   "scene_number": 1,
+   "image_prompt": "Vertical 3:4 premium corporate social media cover, high-end tech consultancy design. Bright white background with a soft mint-to-white gradient glow in the top-right corner and very faint dotted grid texture. A large glossy 3D isometric illustration on the lower half: a floating stack of translucent glass cards and a large emerald green #00B37E toggle switch turned OFF, soft realistic shadows, subtle reflections, depth of field. Massive ultra-bold modern sans-serif headline in the upper half, deep navy charcoal #0B1220, Spanish with accents: \"Esto NO se automatiza\" with the word \"NO\" in emerald green with a thin green underline. Small kicker above the headline in emerald green capsule: \"CYNOCTA\". Elegant, sharp, magazine-quality layout, generous margins. No people, no robots, no mascots, no other text. TEXT RULES: every word must be written whole on a single line, NEVER hyphenate or split a word across lines, no syllable breaks; use short lines of 1-3 words, reduce font size if needed; spell every Spanish word exactly as given with correct accents and no extra letters; headline must fit comfortably with wide margins.",
+   "video_prompt": "Slow parallax on glass cards.",
+   "narration": "Somos agencia de automatización. Y esto no lo automatizaríamos."
+  },
+  {
+   "scene_number": 2,
+   "image_prompt": "Vertical 3:4 premium corporate infographic slide, bright white background with soft mint gradient glow bottom-left and faint dotted grid. Huge semi-transparent numeral \"1\" in pale emerald green behind the content. A floating white rounded card with soft drop shadow containing a polished 3D isometric icon of two hands shaking made of glass and emerald green #00B37E accents. Bold deep navy #0B1220 sans-serif headline in Spanish with accents: \"Negociar con un cliente grande\". Below, a rounded emerald green pill with white text: \"Cotizar sí. Negociar no.\" Refined, high-end consulting aesthetic, crisp, lots of whitespace. No people faces, no robots, no other text. TEXT RULES: every word must be written whole on a single line, NEVER hyphenate or split a word across lines, no syllable breaks; use short lines of 1-3 words, reduce font size if needed; spell every Spanish word exactly as given with correct accents and no extra letters; headline must fit comfortably with wide margins.",
+   "video_prompt": "Card floats gently.",
+   "narration": "Uno: negociar con un cliente grande. Un bot puede cotizar, pero descuentos y condiciones necesitan a alguien que lea a la otra persona."
+  },
+  {
+   "scene_number": 3,
+   "image_prompt": "Vertical 3:4 premium corporate infographic slide, bright white background with soft mint gradient glow top-right and faint dotted grid. Huge semi-transparent numeral \"2\" in pale emerald green behind the content. A floating white rounded card with soft shadow holding a glossy 3D isometric chat bubble (empty, no text) with a glowing emerald green #00B37E notification bell badge. Bold deep navy #0B1220 sans-serif headline in Spanish with accents: \"El cliente molesto o preocupado\". Below, an emerald green pill with white text: \"El bot avisa. Tú respondes.\" Sleek, sophisticated, high-end consulting look. No faces, no robots, no other text. TEXT RULES: every word must be written whole on a single line, NEVER hyphenate or split a word across lines, no syllable breaks; use short lines of 1-3 words, reduce font size if needed; spell every Spanish word exactly as given with correct accents and no extra letters; headline must fit comfortably with wide margins.",
+   "video_prompt": "Bell badge pulses.",
+   "narration": "Dos: el cliente molesto o el paciente preocupado. El bot puede detectarlo y avisarte al instante, pero responder con empatía es tuyo."
+  },
+  {
+   "scene_number": 4,
+   "image_prompt": "Vertical 3:4 premium corporate infographic slide, bright white background with soft mint gradient glow bottom-right and faint dotted grid. Huge semi-transparent numeral \"3\" in pale emerald green behind the content. A striking 3D render of a tangled navy cable knot on the left flowing into one clean straight emerald green #00B37E line on the right, soft shadows, glossy material, on a floating white card. Bold deep navy #0B1220 sans-serif headline in Spanish with accents: \"Lo que aún no sabes explicar\". Below, an emerald green pill with white text: \"Primero ordénalo.\" Refined, modern, high-end. No people, no robots, no other text. TEXT RULES: every word must be written whole on a single line, NEVER hyphenate or split a word across lines, no syllable breaks; use short lines of 1-3 words, reduce font size if needed; spell every Spanish word exactly as given with correct accents and no extra letters; headline must fit comfortably with wide margins.",
+   "video_prompt": "Knot straightens into line.",
+   "narration": "Tres: cualquier proceso que aún no sabes explicar. Si tu equipo lo hace distinto cada vez, automatizarlo solo repite el desorden más rápido."
+  },
+  {
+   "scene_number": 5,
+   "image_prompt": "Vertical 3:4 premium corporate comparison slide, bright white background with soft mint gradient glow and faint dotted grid. Two large floating rounded cards side by side with soft shadows: left card in emerald green #00B37E gradient with a glossy white 3D gear and small repeating checkmarks icon; right card in white with navy border and a 3D glass hand icon. Bold deep navy #0B1220 sans-serif headline on top in Spanish with accents: \"Lo repetitivo, automático. Lo humano, tuyo.\" Clean, premium, consulting-firm quality. No faces, no robots, no other text. TEXT RULES: every word must be written whole on a single line, NEVER hyphenate or split a word across lines, no syllable breaks; use short lines of 1-3 words, reduce font size if needed; spell every Spanish word exactly as given with correct accents and no extra letters; headline must fit comfortably with wide margins.",
+   "video_prompt": "Cards slide in.",
+   "narration": "Lo que sí automatizamos es lo repetitivo con reglas claras: responder lo mismo, agendar, recordar, pasar datos entre sistemas. Lo humano, déjalo en manos humanas."
+  },
+  {
+   "scene_number": 6,
+   "image_prompt": "Vertical 3:4 premium corporate process slide, bright white background with soft mint gradient glow and faint dotted grid. Three large glossy 3D emerald green #00B37E spheres numbered 1, 2, 3 in white, connected by a glowing thin line along a gentle diagonal, soft shadows and reflections. Bold deep navy #0B1220 sans-serif headline in Spanish with accents: \"¿Puedes explicarla en 3 pasos? Entonces sí.\" Elegant, high-end, magazine quality. No people, no robots, no other text. TEXT RULES: every word must be written whole on a single line, NEVER hyphenate or split a word across lines, no syllable breaks; use short lines of 1-3 words, reduce font size if needed; spell every Spanish word exactly as given with correct accents and no extra letters; headline must fit comfortably with wide margins.",
+   "video_prompt": "Spheres light up in order.",
+   "narration": "La regla simple: si no puedes explicar la tarea en tres pasos, no la automatices todavía."
+  },
+  {
+   "scene_number": 7,
+   "image_prompt": "Vertical 3:4 premium corporate closing slide, bright white background with a bold emerald green #00B37E gradient shape sweeping across the bottom third and faint dotted grid. A floating white rounded card with soft shadow containing a 3D isometric notepad and pencil icon in glass and emerald green. Huge bold deep navy #0B1220 sans-serif headline in Spanish with accents: \"Escribe una tarea de tu negocio. Te decimos si se automatiza.\" On the green shape, small white text: @cynocta_ai. Polished, high-end, memorable. No people, no robots, no other text. TEXT RULES: every word must be written whole on a single line, NEVER hyphenate or split a word across lines, no syllable breaks; use short lines of 1-3 words, reduce font size if needed; spell every Spanish word exactly as given with correct accents and no extra letters; headline must fit comfortably with wide margins.",
+   "video_prompt": "Pencil writes.",
+   "narration": "Escribe en un comentario una tarea de tu negocio y te decimos si se automatiza o no."
+  }
+ ]
+}
