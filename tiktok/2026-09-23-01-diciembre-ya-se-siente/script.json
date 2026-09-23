@@ -1,0 +1,40 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide in Colombian Christmas meme style. Deep navy #0B1220 night background with warm golden string lights and soft bokeh, festive but premium. Huge extra-bold white headline with meme-caption energy, the key word in emerald #00B37E. Small emerald pill label above the headline. 3D frosted-glass illustration with warm glow. Label reading exactly \"DESDE SEPTIEMBRE SE SIENTE\". Headline reading exactly \"¿Tu WhatsApp aguanta diciembre?\". Visual: a frosted-glass phone surrounded by glass buñuelos, a glass cup of natilla and tiny warm lights. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "String lights twinkle, phone glows",
+      "narration": "Desde septiembre se siente que viene diciembre. La pregunta es: ¿tu WhatsApp lo aguanta?"
+    },
+    {
+      "scene_number": 2,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide in Colombian Christmas meme style. Deep navy #0B1220 night background with warm golden string lights and soft bokeh, festive but premium. Huge extra-bold white headline with meme-caption energy, the key word in emerald #00B37E. Small emerald pill label above the headline. 3D frosted-glass illustration with warm glow. Label reading exactly \"NADIE:\". Headline reading exactly \"Tu WhatsApp en diciembre\". Visual: a frosted-glass phone exploding with dozens of emerald chat bubbles and a big red notification badge reading 99+. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Chat bubbles burst out of the phone",
+      "narration": "Nadie: Tu WhatsApp en diciembre:"
+    },
+    {
+      "scene_number": 3,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide in Colombian Christmas meme style. Deep navy #0B1220 night background with warm golden string lights and soft bokeh, festive but premium. Huge extra-bold white headline with meme-caption energy, the key word in emerald #00B37E. Small emerald pill label above the headline. 3D frosted-glass illustration with warm glow. Label reading exactly \"Y VOS...\". Headline reading exactly \"Respondiendo con buñuelo en mano\". Visual: a frosted-glass phone next to a half-eaten glass buñuelo, chat bubbles piling up unanswered. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Unanswered bubbles keep piling",
+      "narration": "Y vos respondiendo uno por uno con el buñuelo en la mano."
+    },
+    {
+      "scene_number": 4,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide in Colombian Christmas meme style. Deep navy #0B1220 night background with warm golden string lights and soft bokeh, festive but premium. Huge extra-bold white headline with meme-caption energy, the key word in emerald #00B37E. Small emerald pill label above the headline. 3D frosted-glass illustration with warm glow. Label reading exactly \"LA SOLUCIÓN\". Headline reading exactly \"Cynocta responde por vos\". Visual: a calm frosted-glass phone with neat chat bubbles in order, each with a glowing emerald check mark, a glowing emerald frosted-glass shield-shaped badge with a check mark, premium hero lighting. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Check marks appear one by one",
+      "narration": "Con Cynocta tu WhatsApp responde, muestra el catálogo y toma pedidos solo."
+    },
+    {
+      "scene_number": 5,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide in Colombian Christmas meme style. Deep navy #0B1220 night background with warm golden string lights and soft bokeh, festive but premium. Huge extra-bold white headline with meme-caption energy, the key word in emerald #00B37E. Small emerald pill label above the headline. 3D frosted-glass illustration with warm glow. Label reading exactly \"VOS, TRANQUILO\". Headline reading exactly \"Diciembre vendiendo sin estrés\". Visual: a frosted-glass cup of natilla and a glowing emerald coin stack under warm lights. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Coins stack up gently",
+      "narration": "Vos disfrutás diciembre y tu negocio sigue vendiendo."
+    },
+    {
+      "scene_number": 6,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide in Colombian Christmas meme style. Deep navy #0B1220 night background with warm golden string lights and soft bokeh, festive but premium. Huge extra-bold white headline with meme-caption energy, the key word in emerald #00B37E. Small emerald pill label above the headline. 3D frosted-glass illustration with warm glow. Label reading exactly \"ESCRÍBENOS POR DM\". Headline reading exactly \"Escribe DICIEMBRE\". Visual: a big frosted-glass chat bubble with a glowing emerald paper-plane icon. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Paper plane flies off",
+      "narration": "Escríbenos DICIEMBRE por DM y te mostramos cómo quedaría tu WhatsApp para temporada."
+    }
+  ]
+}
