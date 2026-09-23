@@ -1,0 +1,34 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide with a playful tech look. Light cool-gray background with soft emerald light beams, giant chunky 3D frosted-glass keyboard keycaps as design elements, huge extra-bold navy #0B1220 headline centered, one key word highlighted with a thick emerald #00B37E marker stroke, small emerald pill label. Label reading exactly \"¿SABÍAS QUE?\". Headline reading exactly \"Google ya traduce en vivo\". Visual: two frosted-glass speech bubbles with a glowing emerald sound wave between them. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Sound wave pulses between bubbles",
+      "narration": "Parce, ¿sabías que Google Translate ya traduce conversaciones habladas en vivo en más de setenta idiomas?"
+    },
+    {
+      "scene_number": 2,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide with a playful tech look. Light cool-gray background with soft emerald light beams, giant chunky 3D frosted-glass keyboard keycaps as design elements, huge extra-bold navy #0B1220 headline centered, one key word highlighted with a thick emerald #00B37E marker stroke, small emerald pill label. Label reading exactly \"MIENTRAS TANTO\". Headline reading exactly \"Y vos copiando precios\". Visual: two giant frosted-glass keycaps reading Ctrl C and Ctrl V. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Keys press repeatedly",
+      "narration": "Y vos todavía copiando y pegando la lista de precios a cada cliente."
+    },
+    {
+      "scene_number": 3,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide with a playful tech look. Light cool-gray background with soft emerald light beams, giant chunky 3D frosted-glass keyboard keycaps as design elements, huge extra-bold navy #0B1220 headline centered, one key word highlighted with a thick emerald #00B37E marker stroke, small emerald pill label. Label reading exactly \"LA SOLUCIÓN\". Headline reading exactly \"Cynocta responde eso solo\". Visual: three frosted-glass keycaps with a price tag icon, a clock icon and a book icon, next to a glowing emerald frosted-glass shield-shaped badge with a check mark, premium hero lighting. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Keys light up in sequence",
+      "narration": "Con Cynocta, precios, horarios y catálogo se responden solos por WhatsApp."
+    },
+    {
+      "scene_number": 4,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide with a playful tech look. Light cool-gray background with soft emerald light beams, giant chunky 3D frosted-glass keyboard keycaps as design elements, huge extra-bold navy #0B1220 headline centered, one key word highlighted with a thick emerald #00B37E marker stroke, small emerald pill label. Label reading exactly \"VOS, A VENDER\". Headline reading exactly \"Vos cerrás, el bot responde\". Visual: a giant frosted-glass keycap with a glowing emerald coin and check mark on top. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Coin flips and glows",
+      "narration": "Vos te dedicás a cerrar ventas; lo repetitivo lo responde el bot."
+    },
+    {
+      "scene_number": 5,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide with a playful tech look. Light cool-gray background with soft emerald light beams, giant chunky 3D frosted-glass keyboard keycaps as design elements, huge extra-bold navy #0B1220 headline centered, one key word highlighted with a thick emerald #00B37E marker stroke, small emerald pill label. Label reading exactly \"ESCRÍBENOS POR DM\". Headline reading exactly \"Escribe PRECIOS\" with the keyword in emerald #00B37E capital letters. Below it a second, smaller bold line reading exactly \"y tu WhatsApp responde solo\". Visual: one giant frosted-glass keycap with a glowing emerald paper-plane icon. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Paper plane flies off the key",
+      "narration": "Escríbenos PRECIOS por DM y ponemos tu WhatsApp a responder solo."
+    }
+  ]
+}
