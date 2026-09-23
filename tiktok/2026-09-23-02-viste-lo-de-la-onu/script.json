@@ -1,0 +1,34 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide styled like a breaking-news TV graphic. White background with a subtle mint grid, a bold coral red #FF5A5F banner label at top-left like a news ribbon, a navy #0B1220 news ticker bar at the bottom with no text, huge condensed extra-bold navy headline, left aligned, 3D frosted-glass illustration on the right side. Label reading exactly \"ÚLTIMA HORA\". Headline reading exactly \"Ome, ¿viste lo de la ONU?\" (the word viste has NO accent mark, no stray marks above any letter). Visual: a frosted-glass globe on a glass podium with two microphones. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "News ribbon slides in, globe rotates",
+      "narration": "Ome, ¿viste lo que pasó hoy en la ONU con la inteligencia artificial?"
+    },
+    {
+      "scene_number": 2,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide styled like a breaking-news TV graphic. White background with a subtle mint grid, a bold coral red #FF5A5F banner label at top-left like a news ribbon, a navy #0B1220 news ticker bar at the bottom with no text, huge condensed extra-bold navy headline, left aligned, 3D frosted-glass illustration on the right side. Label reading exactly \"CONSEJO DE SEGURIDAD\". Headline reading exactly \"Piden reglas para la IA\". Visual: a frosted-glass rulebook with an emerald bookmark next to a glass globe. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Rulebook opens",
+      "narration": "Líderes de empresas de IA y gobiernos pidieron reglas globales para la IA."
+    },
+    {
+      "scene_number": 3,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide styled like a breaking-news TV graphic. White background with a subtle mint grid, a bold coral red #FF5A5F banner label at top-left like a news ribbon, a navy #0B1220 news ticker bar at the bottom with no text, huge condensed extra-bold navy headline, left aligned, 3D frosted-glass illustration on the right side. Label reading exactly \"¿Y TU NEGOCIO?\". Headline reading exactly \"¿Tu chatbot tiene reglas?\". Visual: a frosted-glass chat bubble with a question mark, tangled with loose glass wires. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Wires tangle",
+      "narration": "¿Y el chatbot de tu negocio? ¿Sabe qué responder, cuándo pasarte al cliente y qué datos no pedir?"
+    },
+    {
+      "scene_number": 4,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide styled like a breaking-news TV graphic. White background with a subtle mint grid, a bold coral red #FF5A5F banner label at top-left like a news ribbon, a navy #0B1220 news ticker bar at the bottom with no text, huge condensed extra-bold navy headline, left aligned, 3D frosted-glass illustration on the right side. Label reading exactly \"LA SOLUCIÓN\". Headline reading exactly \"Cynocta lo arma con reglas\". Visual: a frosted-glass chat bubble inside a glowing emerald frosted-glass shield-shaped badge with a check mark, premium hero lighting, with three small glass icons around it: a check, a handoff arrow, a padlock. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Icons orbit the badge",
+      "narration": "En Cynocta armamos tu chatbot con reglas claras: qué responde, cuándo te pasa al cliente y qué datos protege."
+    },
+    {
+      "scene_number": 5,
+      "image_prompt": "Vertical 3:4 TikTok photo-carousel slide styled like a breaking-news TV graphic. White background with a subtle mint grid, a bold coral red #FF5A5F banner label at top-left like a news ribbon, a navy #0B1220 news ticker bar at the bottom with no text, huge condensed extra-bold navy headline, left aligned, 3D frosted-glass illustration on the right side. Label reading exactly \"ESCRÍBENOS POR DM\". Headline reading exactly \"Escribe REGLAS\" with the keyword in emerald #00B37E capital letters. Below it a second, smaller bold line reading exactly \"y armamos tu chatbot seguro\". Visual: a big frosted-glass chat bubble with a glowing emerald paper-plane icon. NO people, NO faces, NO robots, NO mascots, NO logos or brand marks, NO small text. Only this text on the slide, nothing else. TEXT RULES: every word whole on a single line, NEVER hyphenate or split a word, lines of 1-3 words, exact Spanish spelling with accents, the brand name spelled exactly Cynocta, wide margins",
+      "video_prompt": "Paper plane flies off",
+      "narration": "Escríbenos REGLAS por DM y armamos el chatbot de tu negocio con reglas claras."
+    }
+  ]
+}
